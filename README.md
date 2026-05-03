@@ -1,4 +1,4 @@
-🏠 House Price Prediction — Production ML System
+End-to-End Housing Price Prediction API with Docker & FastAPI
 🚀 Overview
 
 This project implements a production-grade machine learning pipeline for predicting residential house prices using the Kaggle House Prices dataset.
